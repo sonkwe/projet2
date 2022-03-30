@@ -1,0 +1,42 @@
+   body{
+      font-size: 1.3em;
+      font-family: 'Times New Roman', Times, serif;
+      color: aliceblue;
+      line-height: 1.4;
+      margin: auto;
+       width: 600px;
+      height: 100%;
+      background-image: url(images/image1.png);
+  }
+  form{
+    background-color:   rgba(114, 113, 122, 0.9);
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+  #title{
+    color: rgb(55, 0, 255);
+    font-size: 0.9em;
+    line-height: 0.7;
+  }
+   #number{
+     height: 30px;
+     width: 450px;
+   }
+   #dropdown{
+    height: 30px;
+     width: 458px;
+   }
+   #submit{
+     background-color: aqua;
+    height: 45px;
+     width: 480px;
+   }
+   #name{
+     height: 30px;
+   }
+   #email{
+     height: 30px;
+   }
+   
